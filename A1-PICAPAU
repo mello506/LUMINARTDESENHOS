@@ -1,1 +1,1278 @@
-KKKKKKKKKKKKKKKKKKK
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]O PICA-PAU - 1ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<info>
+AS AVENTURAS DO PÁSSARO MAIS DOIDO DO CINEMA</info>
+<genre>DESENHOS</genre>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> PILOTO - Pica-Pau Ataca Novamente[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/19TjrwW8XTNr5ZlzckMzLe6dM8vqirl7y/view</link>
+<info>Andy e seu pai, tentam capturar o Pica-Pau colocando sal em suas penas</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP01 - Pica-Pau Biruta[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/11cTgL1nMurad_Y88tWKYxPm0aXzNV4ll/view</link>
+<info>Pica-Pau é aconselhado por seus vizinhos a procurar um psiquiatra, devido ao seu comportamento. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP02 - O Biruta[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/16x6_pNdj4JuDRKy_yRHGfmZwxje3iUq4/view</link>
+<info>Pica-Pau enlouquece um guarda de trânsito. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP03 - Pânico na Cozinha[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1oafETVzIgeWCtpRuBdvTRsAc_1MWNPv7/view</link>
+<info>Pica-Pau e um gato se enfrentam para decidir quem janta quem. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP04 - O Matador de Hollywood[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/18IMtRAH_YpiaDCTwtoKTZGywSCSe9ZU6/view</link>
+<info>Pica-Pau e um touro, Osnar, o Terrível, se enfrentam em uma arena de touradas. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP05 - Um Ás Demais[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1lFCuEzsE4DolITmr1A_HwUYVr-Y7zlQH/view</link>
+<info>Pica-Pau quer ser piloto de avião. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP06 - A Loja do Prego[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1ykkb9zErcS-WGxHjd8AR1kImk-KVMAs-/view</link>
+<info>Pica-Pau se esquece de pagar um empréstimo que fez. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP07 - Beisebol Maluco[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1NH1W_QWq_LU1jcdsx_O8GiGqYE322Ifj/view</link>
+<info>Pica-Pau tenta assistir um jogo de beisebol, e até entra em um dos times. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP08 - O Acrobata Maluco[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Brbf7rSWXkSP5DM0Z7JvGFd_snh4PLLC/view</link>
+<info>Pica-Pau está em um circo, e apronta mil e umas com o guarda. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T01EP09 - O Afanador de Gasolina[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1RmJCQIAhsHfD2eQxgnrxBPo5et4y8RQj/view</link>
+<info>Pica-Pau procura por gasolina em todos os carros que encontra, inclusive em uma viatura. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]O PICA-PAU - 2ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<info>
+AS AVENTURAS DO PÁSSARO MAIS DOIDO DO CINEMA</info>
+<genre>DESENHOS</genre>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP01 - O Barbeiro de Sevilha[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1reuzP1-Syq7JqZxFzT6BZw_E9xi4Xr_c/view</link>
+<info>Pica-Pau atende clientes em uma barbearia. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP02 - O Doido da Praia[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1VNGIWyQm72b_FcQIlEjFEXcnhNtfJ59r/view</link>
+<info>Pica-Pau perturba Leôncio, não o deixando curtir seu fim de semana na praia. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP03 - Ski para Dois[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1SJOLoIaoj_k3-T9SQlMzcbVuMJ5ersLF/view</link>
+<info>Pica-Pau viaja para tentar roubar a comida de Leôncio. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP04 - Uma Dama Muito Fina[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1OZtKvsOzxR3qchezbUK78dNDL0kZl2fN/view</link>
+<info>Pica-Pau se veste de mulher para poder (continuar a) comer na pensão do Leôncio. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP05 - O Pica-Pau Come Fora[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17Aq-HwcslouoGbtFtrgi52lUl-dAQclR/view</link>
+<info>Pica-Pau, aborrecido por não encontrar um restaurante aberto, entra em uma loja de taxidermia, imaginando ser um restaurante. Mas o dono do estabelecimento logo lembra-se de uma recompensa de US$100 000 por um pica-pau empalhado. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP06 - O Famoso Diplomata[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1cdTd1T2SIw8v0kWu1PkuTwXSwzktczmN/view</link>
+<info>Pica-Pau se veste de um famoso diplomata para aproveitar o churrasco de Leôncio. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP07 - O Biruta à Soltas[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-sSUNgZ18B183lw5zoI_AT0-Ruz1Hxe9/view</link>
+<info>Pica-Pau é obrigado a arrumar uma pavimentação, mas acaba aprontando com o pedreiro. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP08 - Quem Cozinha Quem?[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1T4lZ9O1VmHdFlS3ru0ZI0GsP8aPLAPq0/view</link>
+<info>Pica-Pau e um lobo tentam um cozinhar o outro. O episodio é parecido com o Pantry Panic (Pânico na cozinha). No final, tudo era um sonho do Pica-Pau. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP09 - A Hora do Banho[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/17U2lBvbAkeuEf9hjdJv1oBsy2CjytJPQ/view</link>
+<info> 	Leôncio é atrapalhado por Pica-Pau e não consegue aproveitar seu banho. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP10 - Motorista Desleixado[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1N5tFcw1DrPnrUZrUYHyvb4Fqtl8x_hGp/view</link>
+<info>Pica-Pau faz exames para renovar sua carteira de motorista. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP11 - Amigos Penosos[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1GqKUQWhltNB-Ta2YX_l0TpehRgj74Qz3/view</link>
+<info>Pica-Pau e Wolfie acabam por parar em uma ilha deserta após uma tempestade e perdem toda sua comida.</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP12 - Miniaturas Musicais[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/10u4lFIf-qTQOBkbk9RpBjICfPrNtA-y_/view?usp=sharing</link>
+<info>Pica-Pau e seus amigos se divertem numa orquestra. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP13 - Presuntos Defumados[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1ziq0HUD-c9E3t9Izo-QJOBXK9wBcjxlZ/view</link>
+<info>Pica-Pau faz faxina na pensão do Leôncio, mas com isso, não deixa o dono dormir. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP14 - O Passarinho do Relógio[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1bQ9N7CKiclxFeBfnwl50ae5dDjpiTsZR/view</link>
+<info>Um passarinho cuco de um relógio não deixa Pica-Pau dormir. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP15 - Roubando Gasolina[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1a9p3zdB8HOdzrgP83EeSL7PThVYWRJxD/view</link>
+<info>Pica-Pau rouba gasolina da viatura do Leôncio. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP16 - O Ovo da Galinha[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1fptVtG6LFuEyOLENY8JnS2hMENCJ9y4x/view</link>
+<info>Uma galinha confunde a bola branca de bilhar do Pica-Pau com um de seus ovos. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP17 - Pica-Pau o Mata Gigante[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1l5xpb7090VWXL-AUReqS677wkmPvo4Uz/view</link>
+<info>Pica-Pau tenta se hospedar na pensão de um gigante. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP18 - A Cartola[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/14BHhAOFPhInIxJk8RldWajbPwHouC8L6/view</link>
+<info>Pica-Pau compra uma cartola, mas tem vários problemas com ela. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP19 - O Fila Bóia[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/16v95ei9u7Lam8h2EphXVtJNV57OXKQsb/view</link>
+<info>Pica-Pau e seus amigos tentam pegar comida, e acabam arrumando confusões com o Leôncio e os demais. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP20 - Hora do Bebê[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1n4bfHeabmAm_HusJNHGy2U5mCc3QdU1G/view</link>
+<info>Pica-Pau se veste de bebê para morar na mansão de Leôncio. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP21 - Apólice Cobertor[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1D9fAe88J_hNeQhU-QS9lA4cPkV9BZrAH/view</link>
+<info>Pica-Pau tenta se livrar do negócio sujo do Zeca Urubu. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP22 - Pica-Pau Xerife[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1q_GG9WsDlAWaA2WkLx3NWxPLjyDrFvvT/view</link>
+<info>Pica-Pau é o novo xerife de uma pequena cidade, e é logo encarregado de procurar um perigoso bandido. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T02EP23 - Delícia Gelada[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1SY2iSBZvuqw-CchmKOL-Cik1ou1G0iX8/view</link>
+<info>Pica-Pau e Zeca Urubu se digladiam por uma moeda de 25 centavos, isso porque o pássaro só queria deliciar-se com um sorvete chamado "Delícia Gelada". </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]O PICA-PAU - 3ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<info>
+AS AVENTURAS DO PÁSSARO MAIS DOIDO DO CINEMA</info>
+<genre>DESENHOS</genre>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP01 - O Mensageiro[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1kbyjqqYcjLBUnRXCsYDGfgKT6yXMdnBD/view</link>
+<info>Pica-Pau desafia um perigoso bandido (Zeca Urubu) para entregar uma correspondência. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP02 - Durma Bem[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1XW8lU2_5tGQcm3VClcdIq_6BKQylXn0p/view</link>
+<info>Pica-Pau está morrendo de sono e consegue uma vaga na pensão do Leôncio. Porém, não deixa o pobre dono do estabelecimento dormir. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP03 - Cricket Maluco[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1QDrhp1bUnA_NcQ_dyHsxKTJfbcUlr80C/view</link>
+<info>Pica-Pau joga críquete em uma propriedade particular, e acaba arrumando confusão com um castor. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP04 - Campeão do Estilingue[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1YuHFpyCth6M1xr7DWJaHB9cqdXICBylM/view</link>
+<info>Pica-Pau entra em uma competição de tiro ao alvo com um estilingue fabricado por ele próprio. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP05 - Os Trabalhadores da Floresta[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1OBEX7oByX2Uu6yQdLIJVqXLXARhKAK1I/view</link>
+<info>Todos os animais da floresta, menos o Pica-Pau, trabalham duro para garantir comida para a chegada do inverno. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP06 - A Polka do Pica-Pau[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1AfR4PD4CwpGBcxnYOGR3tGYa1c9UqVLh/view</link>
+<info>Pica-Pau se veste de mulher para enganar Leôncio e entrar numa festa sem pagar. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP07 - Uma Aventura no Supermercado[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1a0C8culVnRIpfRkPXwqIcl4QXc1dpYA3/view</link>
+<info>Pica-Pau tenta desmascarar o jogo sujo do Zeca Urubu em seu supermercado. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP08 - Nascido para Picar[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1FMLarfzwebFDe9g5KMq1PkunsssDBa50/view</link>
+<info>Nos últimos momentos de vida, Pica-Pau lembra-se da sua vida pregressa. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP09 - O Grande Logro[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Bl7Koi3g2M9M0RUKtjlxBzE-HG95xqNZ/view</link>
+<info>Pica-Pau se veste de mulher para viajar na carruagem do Leôncio sem pagar. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP10 - Campeão de Golfe[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1MQeeqh3lfdXQ03ZFwF4hB6h6YGUfDHOT/view</link>
+<info>Pica-Pau enfrenta um brutamontes em uma partida de golfe. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP11 - O Cabeleireiro[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1u79CG0D_HnffzObYBqLWmwI1T6LE6L1e/view</link>
+<info>Zeca Urubu, cabeleireiro da tribo, tenta depenar o Pica-Pau para dar um cocar de penas à filha do chefe.</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP12 - O Grande Quem Faz Isso[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1eZvL6XhySgkHfY7pR3kVWWtIV9NrFzA3/view</link>
+<info>Zeca Urubu tenta pôr as mãos no Pica-Pau após o pássaro arruinar a venda de seu xarope. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP13 - Formigas de Marte[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1wl6P6jGe2PembLiKredzmPDNKQCOwVxv/view</link>
+<info>Várias formigas vindas de Marte (planeta)Marte invadem a Terra e começam a destruir tudo.</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP14 - O Varre-Varre[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1MTnKC2iXGMyof8E6u8e9Bv2oZGbUgOBR/view</link>
+<info>Cansado de trabalhar como gari, Pica-Pau pede demissão e vira policial. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP15 - Pica-Pau, o Pirata[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1zjoReoAhHBA7KoQCc3ZCd3_KSoWRXSCY/view</link>
+<info>Pica-Pau se voluntaria para enfrentar o perigoso Capitão Pirata Zeca Urubu, que pretende assaltar uma cidade portuária. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP16 - Operação Serragem[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-cYwfPQFeEsIHMNLGUv50fQGfxCRjVnf/view</link>
+<info>Zeca Urubu tenta ensinar uma lição a Pica-Pau, após o pássaro lhe roubar o almoço. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP17 - O Vale Tudo[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1IA8OVNnDIP48cySatF_byEOdJTAt15t6/view</link>
+<info>Pica-Pau assiste a uma luta entre Demerval, o Delicado, e Joe Trator, porém decide acompanhar diretamente do ginásio após o cachorro de estimação destruir a televisão. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP18 - Os Mensageiros[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1LOYPZErpOq26YzCtMCqymVNqWw_ojKFO/view</link>
+<info>Pica-Pau e Zeca Urubu disputam para ver quem atende a atriz Tônia Praga no hotel Ritzmore. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP19 - O Hipnotizador Caipira[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1soLIxGNbpd4iz7en3lgtE8n7-euYZi7v/view</link>
+<info>Pica-Pau pratica hipnose para fazer Zeca Urubu aceitar uma intimação. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP20 - Meio-Dia Quente[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Gx6oWoUBkQG81C_RVAHKrpcD9m2kJ-Lr/view?usp=sharing</link>
+<info>Pica-Pau enfrenta Zeca Urubu em um duelo de vida ou morte na cidade. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP21 - Briga em Marrocos[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1mJihiy8D9h9MlC-cxPC39xaz_Con64nX/view</link>
+<info>Pica-Pau e Zeca Urubu brigam para ver quem fica protegendo a Princesa Salami em um palácio. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP22 - A Alameda para Bali[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1hnoWZebj8-jGsJXqS8HQ2OHMLkpAPoT7/view</link>
+<info>Pica-Pau e Zeca Urubu são levados pela Rainha Bubbaloo a uma armadilha. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP23 - O Espião Espiado[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1fB1vOD4jXb3Hh5kZGCwE9M1nVwrJCBFe/view</link>
+<info>Um criminoso chamado "Morcego" rouba uma fórmula e Pica-Pau tenta capturá-lo. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP24 - O Vendedor de Carrões[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1VDeHJTbKWyQTjZmb5rAbkbIHv2qet2C5/view</link>
+<info>Pica-Pau bate o carro e Zeca Urubu tenta lhe vender um novo. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP25 - O Trio Amoroso[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1TiRK_wgrMzSuK6xwJ-QHV6uiMnep-ifM/view</link>
+<info>Pica-Pau e Zeca Urubu se digladiam para decidir quem leva Paulina para sair à noite. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP26 - Pesadelo Dourado[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Rjf9bkqH80DnK7tNJ5HClhBfIVHL05oT/view</link>
+<info>Pica-Pau é chamado por uma "linda garota" para ir morar com ela, mas descobre que ela não é o que ele esperava. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP27 - Concerto na Marra[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1jlRQuMlwjTAVh0CESsLRewpQBx6obUo2/view</link>
+<info>Pica-Pau trabalha como afinador de pianos, porém um assaltante de bancos, chamado Careta, o ameaça se o pássaro o dedurar para o policial. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP28 - Os Desabrigados[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1zAgo6YEvv9Zdiksha-MSVm1xvADmJYk7/view</link>
+<info>Pica-Pau se hospeda em uma casa após ficar sem ter onde morar. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP29 - A Vassoura da Bruxa[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1e2H-e-g7RTbGEpCqulltN5MVd2DUNE_D/view</link>
+<info>Uma bruxa quebra o cabo de sua vassoura e tenta conseguir um novo com o Pica-Pau. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP30 - Farejador vs. Pica-Pau[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1dbF7wNhWeC1vgZAWHlQVJdQlg95S-qSN/view</link>
+<info>Pica-Pau foge de uma universidade para não ser estufado, e tem de enfrentar um cão. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP31 - Pica-Pau Ama Seca[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1zJcN0lLyF85oCJKKomMR0TQzeU0FxEo9/view</link>
+<info>Pica-Pau tem de cuidar de um bebê gorila. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP32 - Ladrão que Rouba Ladrão[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1xYi6E7mrHC5tYTjN5SFRHdrGWzCUdj5I/view</link>
+<info>Um ladrão tenta recuperar o dinheiro que roubou das mãos do Pica-Pau. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T03EP33- Um Tesouro Difícil[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UqTuxLFjfSEVc0UTvDWghztsr1ytcn38/view</link>
+<info>Pica-Pau herda uma fortuna e é vítima das armações de Zeca Urubu. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]O PICA-PAU - 4ª TEMPORADA[/B][/COLOR] </name>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<info>
+AS AVENTURAS DO PÁSSARO MAIS DOIDO DO CINEMA</info>
+<genre>DESENHOS</genre>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP01 - Médico de Árvores[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1jYHjpK34mHIOetuZOBmbGiwfk3EG9-ds/view</link>
+<info>Pica-Pau inferniza a vida de um doutor de árvores. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP02 - Depois da Bola[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1DtdDaznR0_1DuhvNoukT5ruyEKd5mX0g/view</link>
+<info>Pica-Pau tenta continuar a morar em sua casa, mesmo após Pierre fazer bolas de boliche dela. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP03 - Os Perdidinhos[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1wJK77jRJ1ffZZhXv3WKgPBC0geecLMrR/view</link>
+<info>Toquinho e Lasquita brincam de João e Maria na floresta, e aprontam mil e umas com um gato que quer almoçá-los. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP04 - Chefe Charlie Cavalo[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/14xtLax_OQt5rplpdSlwWzvg6N9Xsbo6y/view</link>
+<info>Um índio tenta escapar da polícia, e o xerife acusa o Pica-Pau, que trabalha numa loja de esculturas, de tentar escondê-lo. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP05 - Um Pica-Pau de Marte[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO GDRIVE</link>
+<info>Pica-Pau é confundido com um marciano.</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP06 - Festival de Cucos[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1N5XD7sujHrVWHjOUwI2IkISD0CF4GXCu/view</link>
+<info>Um fabricante de relógios busca um passarinho cuco para um de seus relógios, e Pica-Pau se candidata. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP07 - Vamos às Cataratas[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1YEIx9QuUZF6nC5COo2Yn2fdLe_gRdrSS/view</link>
+<info>Pica-Pau tenta descer as Cataratas do Niágara escondido num barril, mas o guarda o impede. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP08 - Artes e Flores[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/11zrEjy5uzvOfKeVPQCV6iWshPCY98QJH/view</link>
+<info>Pica-Pau e um artista se digladiam para conseguir fazer uma pintura de uma rara flor do deserto. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP09 - Davy Escovinha Enfrenta Pica-Pau[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1sxOBhRw-i-RJ4zV1OYQTinD4kjaKDY5_/view</link>
+<info>Davy Escovinha, um exímio caçador de ursos, é aconselhado pelo animal a caçar outro bicho - o Pica-Pau. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP10 - Chapeuzinho Diferente[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1mtKB0pwM-35FQJ2jdZX5l2X-vGAHtrxL/view</link>
+<info>Toquinho e Lasquita tentam proteger a sua avó do lobo mau. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP11 - O Bandido do Trem[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-hHi72Dt3I4QBTf3LlDcrj5Vr03iGXpQ/view</link>
+<info>Dooley tenta assaltar um trem carregado de ouro, mas descobre que a carga era de sopas. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP12 - O Vendedor Insuportável[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1utsib-qTE9MAXTpj7nWqIlepEf-pENe_/view</link>
+<info>Charlie, um urso, quer hibernar, mas o Pica-Pau insiste em lhe vender algumas coisas, não deixando o pobre animal em paz. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP13 - Pica-Pau Internacional[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1MBGYktgaWEjxOSiqc3OocaIfAsPMjSWp/view</link>
+<info>Toquinho e Lasquita pedem ao Pica-Pau para que ele falasse de seus ancestrais durante vários períodos da história. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP14 - Caça ao Pica-Pau[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1W3ZNrL6rJlzYnD6bGBqn9tUSEmnbVz-b/view</link>
+<info>Um dono de uma grande empresa telefônica decide enfrentar o Pica-Pau, após seu funcionário falhar. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP15 - Viagem à Marte[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/16JPO37nsT6ZJ3Osm9DUfUmRzggz9Ciq2/view</link>
+<info>Pica-Pau finge ser um marciano para infernizar um cientista que o perturba. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP16 - Dopey Dick[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1cDlQOL2FgW-yxcdhBvOhaUgv2onFzW_0/view</link>
+<info>Dooley recruta o Pica-Pau para uma jornada à caça de Dopey Dick, a baleia rosa que mordeu-lhe o bumbum. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP17 - Papai Urso[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1vw9-rTIjNomGjFyznewyU-yOghtwc-J3/view</link>
+<info>Um urso tenta ensinar seu filho a pedir comida aos visitantes do parque. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP18 - Um Seguro Furado[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1oNF2cwdTxXrVjaJ1YM2sbVhxBRBxMvhC/view</link>
+<info>Pica-Pau tenta convencer Dooley a assinar um seguro que o protegeria, mas o vigarista não quer. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP19 - Ornitolomania[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1XgOKNCA4KGgOuWwVYRq-wf0U7qfkgR48/view</link>
+<info>Pica-Pau apronta mil e umas com um observador de pássaros. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP20 - Selins Vazios[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1_nsW8vd6zs6f7bNIz33sGYH3_IGzCaaS/view</link>
+<info>Pica-Pau encontra um tesouro em uma cidade abandonada, e tem de enfrentar Dooley, que também quer o achado. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP21 - Seu Melhor Duende[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/14dxXA4m3zFtbACbgO19WNNtFGn0Ob3bJ/view</link>
+<info>Pica-Pau conhece um duende que promete melhorar sua vida, mas acaba por fazer o contrário.  </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP22 - Investimento Não Tão Seguro[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1SQMcizMoDXpLG7NesjMyskStVqkWWE_q/view</link>
+<info>Pica-Pau e Zé Jacaré caçam um ao outro: Pica-Pau quer o couro do jacaré, e Zé quer um almoço. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP23 - Era Uma Vez Um Parque[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/18dSBkkj0OOqculQa8KuPf4IFmmy8fij0/view</link>
+<info>Pica-Pau destrói um parque de árvores de um coronel. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP24 - Um Bobo e Tanto[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1hn9gUgp7VXjygMs7wFg_jKE_ZJpBJZ8K/view</link>
+<info>Para não perder a cabeça (literalmente), Dooley tenta capturar o Pica-Pau a mando de seu Rei e colocá-lo em seu lugar. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP25 - Luta do Gatoso[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Houi17vKblanYMmAseXvAwBiypnu0U7_/view</link>
+<info>Um gato tenta comer o Pica-Pau, mas Willoughby o adverte para deixá-lo em paz. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP26 - É Madeira pra Burro[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1WVgITflYOMtblWy2817jPgomeSgYBM3C/view</link>
+<info>Pica-Pau tenta proteger sua árvore de um lenhador. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP27 - Pica-Pau Delegado[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1E4jqMKNcH1OkUqDuhr8IqNOkLYa-iIUg/view</link>
+<info>Pica-Pau é delegado na cidade e tenta capturar Dooley. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP28 - Pica-Pau na Lua[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1AIBoT2sE2wVcjOlhaAH4iHsqH8jLqJ-z/view</link>
+<info>Pica-Pau se voluntaria para resgatar o Dr. Dingledong, que está isolado na Lua.</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP29 - Um Jogador de Sorte[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1CAmx8e3DVkCDCfotVuYlC2UsDb8avamG/view</link>
+<info>Pica-Pau e Dooley se enfrentam na final de um torneio de golfe. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP30 - Brincadeira no Pântano[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1Q03P8F-3kVM1bN3BZOCCZh7TxTz7Ie0A/view</link>
+<info>Zé Jacaré faz de tudo pra almoçar o Pica-Pau, no final o passaro o manda pra Lua. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP31 - Aliança Mirim[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1f1Vw0I6oQHpqfS9cxN-_EHHF4Mo4qG8g/view</link>
+<info>Acontece uma partida de beisebol entre o time dos Pica-Paus e o time dos Mascadores, onde fazem muitas traquinagens. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP32 - Surrupiador de Um Bilhão[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1FulJmd8VkAj4SJbSoN6WWeBcHjKA1D1E/view</link>
+<info>Um homem chamado O'Hoolihan recebe um cheque de um bilhão de dólares, mas não percebe que era um cheque sem fundos. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP33 - Pica-Pau Pistoleiro[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1vsz3l4UnHFllGwzfPExOS1p34vntEHlg/view</link>
+<info>Pica-Pau enfrenta um bandido que quer se vingar dele. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP34 - O Charme Vence[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1xsrzKVD40GDbDr8rP0lLhtELE6Wyg99W/view</link>
+<info>Cara-de-Alce, um índio que trabalha como ator, tenta convencer o chefe de sua tribo a deixá-lo casar-se com Beija-Flor, mas o Pica-Pau atrapalha seus planos. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP35 - Propaganda Super[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1hjDxhlzU9YHkCCk3yAFTIrLZNhcKM_aj/view</link>
+<info>Pica-Pau tenta assistir seu programa favorito, o "Responda Isso", e é mandado ao Polo Sul quando pensava em viajar para o litoral após errar uma pergunta.  </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP36 - Como Rechear um Pica-Pau[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1H-1ChEdZVRG-Yy3Rr3Jb0Ip06mQ89Ni6/view</link>
+<info>O Professor Dingle Dong fala da vez em que conseguiu capturar o Pica-Pau e empalhá-lo. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP37 - Morcegos no Campanário[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1uZOkJ_N2LEhWsUEkVxEWUXICAh6q76FI/view</link>
+<info>Pica-Pau atormenta o Coronel Blu Blu e seu mordomo, não deixando o pobre magnata descansar.  </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP38 - O Último Martin[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1PatlEpH6WAIWEJkQN_5b68tVttYOzLdN/view</link>
+<info>Jerter Martin confunde o Pica-Pau com um antigo inimigo. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP39 - Hospitalidade Gélida[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1aTcMMoVpVaWfLhnQwqETKNNOxaaMR3Sb/view</link>
+<info>Zé Jacaré em mais uma tentativa de comer o Pica-Pau, faz o pássaro fazer show em cima do fogão. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP40 - Caça ao Falcão[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1VyriKz57YilJVOAQLoyBgLYWk5g6vd72/view</link>
+<info>Um caçador manda seu falcão capturar o Pica-Pau. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP41 - Pirata do Barulho[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1kwe3ek5gFMX4dHUGEZsDskcuL3A-4_qw/view</link>
+<info>Pica-Pau não suporta barulho na cidade e resolve passar umas férias numa ilha onde há um pirata que faz barulho. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP42 - O Pássaro que Veio para Jantar[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1EoSEM8CgVYEh-55g_HwNBAWTr5KITUd7/view</link>
+<info>Pica-Pau finge ser um boneco e é comprado por uma mulher rica, e Reginaldo, um garoto bastante levado, faz o que quer com o pássaro.</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP43 - O Jantar de Gabby[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1wc4Wtger_s5g9_6vn8ia_23Lxf76whrj/view</link>
+<info>Em sua outra tentativa de comer, Zé Jacaré agora faz o Pica-Pau se abrigar num Microondas. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP44 - O Gato a Jato[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/100pJhSAKzeJB44ey_joHwsHgVsa3pPEm/view</link>
+<info>Pica-Pau enfrenta um gato muito veloz e astuto.</info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]O PICA-PAU -> T04EP45 - Não Puxem Minhas Penas[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/originals/08/ef/ed/08efed31087924a05a00c086aaaecead.jpg</thumbnail>
+<fanart>https://files-febre.s3.us-east-2.amazonaws.com/s3fs-public/banco_imagens/imagens2/baixa/Pica-Pau%201000px%202_0.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1zy9H7mFwHc-dPdH64ZiumtT3ztq83ZDl/view</link>
+<info>Pica-Pau consegue abrigo em um castelo, mas o dono testa nele seu novo robô puxa-frangos. </info>
+<genre>DESENHOS</genre>
+</item>
+<item>
+
+
+
+
