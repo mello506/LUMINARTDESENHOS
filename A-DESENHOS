@@ -57,7 +57,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  THE REAL ADVENTURES OF JONNY QUEST[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTDESENHOS/main/A2-ATURMADOMANDACHUVA</externallink>
+<externallink>https://</externallink>
 <thumbnail>https:/</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>THE REAL ADVENTURES OF JONNY QUEST</info>
@@ -68,7 +68,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  TIN TIN[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTDESENHOS/main/A2-ATURMADOMANDACHUVA</externallink>
+<externallink>https://</externallink>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>TIN TIN</info>
@@ -93,22 +93,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR blue][B]SEÇÃO DUCKTALES[/B][/COLOR]</title>
 <link>NO LINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]DUCKTALES - 1992 [/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=PgCxPsPk7nk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DUCKTALES[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3556c470f053de581b5b056d36b8a092d8e36019&dn=Duck+Tales+-+S%26eacute%3Brie+Completa+001-100+-+Dublado+PT-BR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] DUCKTALES - 720 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eee31b5d448e35e2cedaef80524f776566b494c7&dn=Desenho+Ducktales+Completo&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] DUCKTALES - 720 - DUB[/COLOR]</link>
-
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>SINOPSE</info>
