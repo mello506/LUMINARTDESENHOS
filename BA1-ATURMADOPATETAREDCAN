@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] TURMA DO PATETA - TODOS OS EPISÓDIOS - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/0Kp20Y5/turmapateta-icon.jpgICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] TURMA DO PATETA - TODOS OS EPISÓDIOS - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 group-title="A Turma do Pateta (Dublado)",[B]DESENHO[/B][COLOR yellow] ->[/COLOR][COLOR lime] TURMA DO PATETA[/COLOR] TO1E01 
