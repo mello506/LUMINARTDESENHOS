@@ -2,7 +2,7 @@
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME - 2011 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=KQ-cgWokwP4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YyMNZR-3OEp_CZF_XSdxSb8DgQBYMZGs/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YyMNZR-3OEp_CZF_XSdxSb8DgQBYMZGs/view$$lsname=[B]GDRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
 
@@ -12,7 +12,7 @@
 
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - RES - DUB[/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - RES - DUB[/COLOR]</link>
+<link>http://esrv.cc:80/movie/coqueiro/123456/16920.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/3yxCSPQ/mandachuvafilm-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/nDZDW9y/mandachuvafilm-fan.jpg</fanart>
