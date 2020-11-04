@@ -1,79 +1,73 @@
-<item>
-<title>[COLOR lime]T00 - CORRIDA MALUCA - 1968 - SD - DUB[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=9aQntZfdU4o$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR]</link>
+#EXTM3U
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ntVbzriDy87qfpAhmICiONfMgkGX9iQ9/view
-$$lsname=[COLOR lime]T00E01 - Grande Premio Arkansas[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uK8mMQuuAZAUDB4oJAY9obWOEGuCbxrC/view
-$$lsname=[COLOR lime]T00E02 - Destino Cidade Fantasma[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K-nSe_Zdae7RoS3FXFS9rOpc8Fevjxug/view
-$$lsname=[COLOR lime]T00E03 - O Grande Premio Wyoming[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UL81APmEADsRbaWslUJ7HnQZkDc2RSxB/view
-$$lsname=[COLOR lime]T00E04 - O Grande Premio Yellow Rock[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ihYQ2wvZsV7Ksh44sS3wVZAbfQH7XFc1/view
-$$lsname=[COLOR lime]T00E05 - O Grande Premio Missouri[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T-6asUJSCTwK1ywjgDvbHrF-qqJUpmtJ/view
-$$lsname=[COLOR lime]T00E06 - O Grande Premio Idaho[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AdxLQSgD6ETa3Iw_oE11KDBcc9TWwnAc/view
-$$lsname=[COLOR lime]T00E07 - O Grande Premio Baja Ha-Ha[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S1qiZaAHFx3uyg7pPW22-hNS7bn_LhGZ/view
-$$lsname=[COLOR lime]T00E08 - Um Gorila na Corrida[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16cvNLh-p6CgsrNOD87StfgDCoP5XSX8t/view
-$$lsname=[COLOR lime]T00E09 - O Grande Premio Bem no Coracao[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hkjvbMmh6y4ezi-Zs9t9nMLDQ81mjocF/view
-$$lsname=[COLOR lime]T00E10 - O Grande Premio Virginia[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r3J2-8HNbsDd3wYBKn1BsGA4k7Mx2za4/view
-$$lsname=[COLOR lime]T00E011 - O Grande Premio Altos e Baixos[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RN6PJVzFr-Wh969QSUh_1fa9JofIUJX4/view
-$$lsname=[COLOR lime]T00E12 - A Toda Velocidade para Arkansas[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dXlkg_3LsSNEWuwfIZPUufRkLqsemrRK/view
-$$lsname=[COLOR lime]T00E13 - O Grande Premio Mississippi[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cTUPcubjHlO8MFg4unFmjJHy5DVUHbWB/view
-$$lsname=[COLOR lime]T00E14 - O Grande Premio Alabama[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VhQ1wUqThH7wmjTBjS8uIp6Ud0i4LUZy/view
-$$lsname=[COLOR lime]T00E15 - Corrida Quente em Chillicothe[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Alrz6CzGQv5rAAvxVUT4aPj5udzeBCC/view
-$$lsname=[COLOR lime]T00E16 - O Grande Premio A Estrada Nao Era Essa[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1twOe_1OaLHR4Wa4rDdpZd4GpvvE_q-_k/view?
-$$lsname=[COLOR lime]T00E17 - O Grande Premio Rhode Island[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zGf-B67EIMH6RyH4mVX1lC9T6uIr15H9/view
-$$lsname=[COLOR lime]T00E18 - O Grande Premio Polo Norte[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MqFBJdyjLp1O2UXhHoHO1598bmJioZSg/view
-$$lsname=[COLOR lime]T00E19 - O Grande Premio Vale Tudo[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JwXu1R29kOC0tYlORGUFBLuUlbbdRqBr/view
-$$lsname=[COLOR lime]T00E20 - O Grande Premio Texas[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L3jvfvoQGwS3Ce7H10t67I3VmVWCwGbU/view
-$$lsname=[COLOR lime]T00E21 - O Grande Premio de Washington[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i5bb3iss-2fdp0yVNyHAk1HwdMcrsoUR/view
-$$lsname=[COLOR lime]T00E22 - O Grande Premio do Deserto[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UT3QA2MzmbJlD1pWYJVxHyh3lpCEKxb5/view
-$$lsname=[COLOR lime]T00E023 - O Grande Premio Uni-Duni-Te[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EmzVzebdG9o0BcsamSQW2Gm_c0j8TPzz/view
-$$lsname=[COLOR lime]T00E24 - O Grande Premio do Pantano[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Wu90yM_6DUAj6rN8hd9AL_dt_yILn5H/view
-$$lsname=[COLOR lime]T00E25 - O Grande Premio Dakota[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sS_GwMmN1Otc0TDMStu9tV6zjGZiM_47/view
-$$lsname=[COLOR lime]T00E026 - O Grande Premio Delaware[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18uuu3EI5ETVDGKBPOzuUJZV5mjt4NjnM/view
-$$lsname=[COLOR lime]T00E27 - O Grande Premio de Jollywood[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1szBzU8UcJ7wnI5PpCFSxtB1quigFjv1M/view
-$$lsname=[COLOR lime]T00E28 - O Grande Premio Raleigh[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-mrJL75T4T63-a_1WSYIPwgwJCxQG0E-/view
-$$lsname=[COLOR lime]T00E29 - O Grande Premio Pennsylvania[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NLIFZQPSQRKzCbRkGDYWlZCTpHbXdy2m/view
-$$lsname=[COLOR lime]T00E30 - O Grande Premio Hackensack[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qN5k9FNo0VIHKI4SiA5VK3ZoEKEOztIU/view
-$$lsname=[COLOR lime]T00E31 - O Grande Premio Idaho[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_EgphZHA3sp-UessY6qN6bJ4lG-vfnAw/view
-$$lsname=[COLOR lime]T00E32 - O Grande Premio Florida[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n98TnMmmIufoZXWzjiIFlLMEeDRClBEa/view
-$$lsname=[COLOR lime]T00E33 - O Grande Premio Racine[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RgDg5xWm_BNVRlaL9J9Wn60cAf2GnOfO/view
-$$lsname=[COLOR lime]T00E34 - O Grande Premio Carlsbad[/COLOR]</link>
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="CORRIDA MALUCA",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] CORRIDA MALUCA - 1ª TEMP - SD - DUB[/COLOR]
+LINKDOFILME
 
-<thumbnail>https://i.ibb.co/s5JhQ7d/corridamaluca-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/m0HG89L/corridamaluca-fan.jpg</fanart>
-<info>Dez pilotos disputam corridas pelo país em seus carros malucos e cheios de estilo. O corredor Dick Vigarista está sempre pronto para passar seus adversários para trás, mas seu orgulho acaba atrapalhando até mesmo suas trapaças.</info>
-<genre>DESENHOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E01 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP01.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E02 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP02.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E03 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP03.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E04 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP04.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E05 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP05.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E06 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP06.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E07 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP07.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E08 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP08.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E09 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP09.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E10 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP10.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E11 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP11.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E12 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP12.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E13 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP13.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E14 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP14.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E15 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP15.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E16 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP16.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E17 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP17.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E18 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP18.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E19 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP19.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E20 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP20.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E21 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP21.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E22 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP22.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E23 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP23.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E24 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP24.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E25 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP25.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E26 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP26.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E27 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP27.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E28 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP28.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E29 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP29.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E30 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP30.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E31 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP31.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E32 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP32.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E33 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP33.mp4
+#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E34 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CRDMLCEP34.mp4
