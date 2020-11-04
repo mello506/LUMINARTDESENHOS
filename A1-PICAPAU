@@ -1,12 +1,19 @@
-<channels>
+<channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] PICA PAU[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTDESENHOS/main/A41-APANTERACORDEROSAREDECAN</externallink>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] PICA-PAU[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO PICA PAU</info>
+<info>SEÇÃO PICA-PAU</info>
 <genre>DESENHOS</genre>
-</channel>
-</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] PICA-PAU[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTDESENHOS/main/A1A-PICAPAUREDECANAIS</externallink>
+<thumbnail>https://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SEÇÃO PICA-PAU</info>
+<genre>TERROR</genre>
