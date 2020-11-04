@@ -1,149 +1,91 @@
+#EXTM3U
 
-<item>
-<title>[COLOR lime]T01 - AS AVENTURAS DE TINTIN - 1991 - SD - DUB[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=0n5Jy_2hCro$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR]</link>
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="TINTIN",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] AS AVENTURAS DE TINTIN - 1ª TEMP - 720 - DUB [/COLOR]
+LINKDOFILME
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mnoOZZgkbMznIi4IdxJIQO3FesTAHIdK/view
-$$lsname=[COLOR lime]T01E01- O Caranguejo das Tenazes de Ouro - 1[/COLOR]</link>
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E01 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP01.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E02 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP02.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E03 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP03.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E04 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP04.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E05 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP05.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E06 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP06.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E07 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP07.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E08 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP08.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E09 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP09.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E10 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP10.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E11 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP11.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E12 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP12.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T01E13 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP13.mp4
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A9IjdmJtZ4LLG4KfmgaaIUrUt1O49ggy/view
-$$lsname=[COLOR lime]T01E02 - O Caranguejo das Tenazes de Ouro - 2[/COLOR]</link>
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="TINTIN",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] AS AVENTURAS DE TINTIN - 2ª TEMP - 720 - DUB [/COLOR]
+LINKDOFILME
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15IBHc4DnX1lXB_YMpOLYeNDEqxu0opYj/view
-$$lsname=[COLOR lime]T01E03 - O Segredo do Licorne - 1[/COLOR]</link>
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E14 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP14.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E15 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP15.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E16 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP16.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E17 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP17.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E18 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP18.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E19 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP19.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E20 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP20.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E21 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP21.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E22 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP22.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E23 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP23.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E24 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP24.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E25 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP25.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T02E26 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP26.mp4
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f52KG4pmMhph-AIEiByWOz_vHanKKwju/view
-$$lsname=[COLOR lime]T01E04 - O Segredo do Licorne - 2[/COLOR]</link>
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="TINTIN",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] AS AVENTURAS DE TINTIN - 3ª TEMP - 720 - DUB [/COLOR]
+LINKDOFILME
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dZfd1YYXHvwHNGjC0G_Qx7LAeIRWtIIt/view
-$$lsname=[COLOR lime]T01E05 - O Tesouro de Rackham o Terrivel[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iQoubvzlsb7Llut-9hOBDPuXHMlNtb3q/view
-$$lsname=[COLOR lime]T01E06 - Os Charutos do Farao - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sMwBNDMQA8fhEuivrUezqaDd9OB_MTJT/view
-$$lsname=[COLOR lime]T01E07 - Os Charutos do Farao - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/124rbIsg9Tjkrup37PtAeMfycDHMMZE1n/view
-$$lsname=[COLOR lime]T01E08 - O Lotus Azul - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VPI2B8WHAPI3sD1pwxHKAtfNitI06ArE/view
-$$lsname=[COLOR lime]T01E09 - O Lotus Azul - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rMH28qboNjUrStzFXBrlzmlEKYuINsDu/view
-$$lsname=[COLOR lime]T01E10 - A Ilha Negra - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hl1sM6zLVeUX4oATORzNyWDX_Qyv5UH_/view
-$$lsname=[COLOR lime]T01E11 - A Ilha Negra - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWQD2_hfiXN2RaFx2b4aayARYSjrD2ze/view
-$$lsname=[COLOR lime]T01E12 - O Caso Girassol -1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eBgc4R8oFIkMHll3amTImKOIUPQr0-X1/view
-$$lsname=[COLOR lime]T01E13 - O Caso Girassol -2[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/djszYN8/aventurastintin-fan.jpg</fanart>
-<info>Tintim é um jovem repórter que viaja o mundo em busca de aventuras enfrentando perigos e desvendando mistérios.[21] Quase todas as aventuras retratam Tintim trabalhando, empenhado em suas investigações jornalísticas. </info>
-<genre>DESENHOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR lime]T02 - AS AVENTURAS DE TINTIN - 1991 - SD - DUB[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=0n5Jy_2hCro$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mnoOZZgkbMznIi4IdxJIQO3FesTAHIdK/view
-$$lsname=[COLOR lime]T02EP01- A Estrela Misteriosa[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A9IjdmJtZ4LLG4KfmgaaIUrUt1O49ggy/view
-$$lsname=[COLOR lime]T02EP02 - O Idolo Roubado - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15IBHc4DnX1lXB_YMpOLYeNDEqxu0opYj/view
-$$lsname=[COLOR lime]T02EP03 - O Idolo Roubado - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f52KG4pmMhph-AIEiByWOz_vHanKKwju/view
-$$lsname=[COLOR lime]T02EP04 - O Cetro de Ottokar - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dZfd1YYXHvwHNGjC0G_Qx7LAeIRWtIIt/view
-$$lsname=[COLOR lime]T02EP05 - O Cetro de Ottokar - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iQoubvzlsb7Llut-9hOBDPuXHMlNtb3q/view
-$$lsname=[COLOR lime]T02EP06 - Tintim no Tibete - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sMwBNDMQA8fhEuivrUezqaDd9OB_MTJT/view
-$$lsname=[COLOR lime]T02EP07 - Tintim no Tibete - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/124rbIsg9Tjkrup37PtAeMfycDHMMZE1n/view
-$$lsname=[COLOR lime]T02EP08 - Tintin e os TImpanos - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VPI2B8WHAPI3sD1pwxHKAtfNitI06ArE/view
-$$lsname=[COLOR lime]T02EP09 - Tintin e os TImpanos - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rMH28qboNjUrStzFXBrlzmlEKYuINsDu/view
-$$lsname=[COLOR lime]T02EP10 - Tintim no Pais do Ouro Negro - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hl1sM6zLVeUX4oATORzNyWDX_Qyv5UH_/view
-$$lsname=[COLOR lime]T02EP11 - Tintim no Pais do Ouro Negro - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWQD2_hfiXN2RaFx2b4aayARYSjrD2ze/view
-$$lsname=[COLOR lime]T02EP12 - Voo 714 para Sydney - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eBgc4R8oFIkMHll3amTImKOIUPQr0-X1/view
-$$lsname=[COLOR lime]T02EP13 - Voo 714 para Sydney - 2[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/djszYN8/aventurastintin-fan.jpg</fanart>
-<info>Tintim é um jovem repórter que viaja o mundo em busca de aventuras enfrentando perigos e desvendando mistérios.[21] Quase todas as aventuras retratam Tintim trabalhando, empenhado em suas investigações jornalísticas. </info>
-<genre>DESENHOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR lime]T03 - AS AVENTURAS DE TINTIN - 1991 - SD - DUB[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=0n5Jy_2hCro$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x0zbB3Vm8m1o21RbHmn17-KYqQBSUVhp/view
-$$lsname=[COLOR lime]T03E01- Perdidos no Mar - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/197FIt8Pug8tZdCVtaFU3reXxItE7jl5-/view
-$$lsname=[COLOR lime]T03E02 - Perdidos no Mar - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BNALMXmtpOy5Z8879qjV3JqN2TXVI7-T/view
-$$lsname=[COLOR lime]T03E03 - As Sete Bolas de Cristal -1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PdCGml668GhPZAjN5_8D3rKSjKqlO2Uf/view
-$$lsname=[COLOR lime]T03E04 - As Sete Bolas de Cristal -2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yJF3VPbOd7WOnpNeqdaqhWQKXmO6pk4A/view
-$$lsname=[COLOR lime]T03E05 - O Templo do Sol - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DdJkKB0LligAWhlBYeQNlWCNxxK-teQv/view
-$$lsname=[COLOR lime]T03E06 - O Templo do Sol - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lJWMVDQ3JqJTdTrR9q3wTGQeJ9muNdhk/view
-$$lsname=[COLOR lime]T03E07 - As Joias de Castafiore - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/178SOCid8t08fsu_Gdvj_FiBG_y6hSKF1/view
-$$lsname=[COLOR lime]T03E08 - As Joias de Castafiore - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UbzVn5ZMK69gSksfYEfk4qCA_RfoYSVL/view
-$$lsname=[COLOR lime]T03E09 - Rumo a Lua - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s7NsKwY6ejPSxeC-R1caRX2qjhzRqXPm/view
-$$lsname=[COLOR lime]T03E10 - Rumo a Lua - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1amarA91gD2tWfrd_NvFfK1LFsD4LvN1n/view
-$$lsname=[COLOR lime]T03E11 - Explorando a Lua - 1[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VHfX8Q6AcUhywyhhpLzuemfggA_ZRGAp/view
-$$lsname=[COLOR lime]T03E12 - Explorando a Lua - 2[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mxlz2y8AeArcbnjPLfZ2-DD5lMa0laZg/view
-$$lsname=[COLOR lime]T03E13 - Tintim na America[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/GHL8VYJ/aventurastintin-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/djszYN8/aventurastintin-fan.jpg</fanart>
-<info>Tintim é um jovem repórter que viaja o mundo em busca de aventuras enfrentando perigos e desvendando mistérios.[21] Quase todas as aventuras retratam Tintim trabalhando, empenhado em suas investigações jornalísticas. </info>
-<genre>DESENHOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E27 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP27.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E28 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP28.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E29 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP29.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E30 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP30.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E31 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP31.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E32 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP32.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E33 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP33.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E34 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP34.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E35 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP35.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E36 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP36.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E37 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP37.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E38 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP38.mp4
+#EXTINF:-1 group-title="As Aventuras de Tintim (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS AVENTURAS DE TINTIN[/COLOR][COLOR yellow] ->  [/COLOR]T03E39 
+https://proxy.ec.cx/video.php?url=RCServer09/ondemand/AAVTRSDTNEP39.mp4
