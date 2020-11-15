@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="TOM E JERRY",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] TOM E JERRY - SD - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="TOM E JERRY",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] TOM E JERRY - SD - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="" group-title="Tom e Jerry", [B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] TOM E JERRY[/COLOR][COLOR yellow] -> [/COLOR] T01E01
