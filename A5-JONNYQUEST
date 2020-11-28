@@ -9,28 +9,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>NOME DO CANAL JQ.m3u8</title>
- <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=https://proxy-22.nyc.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpbVxh1YX3p1ZpV4QwbqLXFnt9XwQmO0Yrgtxkz4qQOjPvTvnWbmUQniGBmQN1B3iQ8GTGZtQbFYvQEP21JVuoAY)/video/390/523/478325093_mp4_h264_aac_hd.m3u8</link>
-<item>
-
-<item>
-<title>1JONNY QUEST - O Mistério dos Homens-Lagartos</title>
- <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=https://proxy-16.nyc.dailymotion.com/sec(dE83Zyoa3SvsSFjYNnBY1DgEbmaeRR_1QwCcnHAgaJP1CbqC3GTDWE79UP4IDUwDyWVGbh-YTExCs9UVeBduchYwKSazFKeH9nDaVal7Yr4)/frag(119)/video/830/004/478400038_mp4_h264_aac.m3u8</link>
-<item>
-
-<item>
-<title>JONNY QUEST3 .m3u8</title>
- <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=https://proxy-22.nyc.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpbVxh1YX3p1ZpV4QwbqLXFnFGPNLM9m3HE-WyGd5IoGarAlGGtB-pmDwaR2xleyOctGqtJjw8whaK2Y-i_KcGpU)/video/390/523/478325093_mp4_h264_aac_fhd.m3u8#cell=nyc&qos_part=1&qos_geostore=1</link>
-<item>
-
-<item>
-<title>JONNY QUEST4 .m3u8</title>
- <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=ec(mY07IAeONRUUJhi-jD5EpbVxh1YX3p1ZpV4QwbqLXFnFGPNLM9m3HE-WyGd5IoGarAlGGtB-pmDwaR2xleyOctGqtJjw8whaK2Y-i_KcGpU)/video/390/523/478325093_mp4_h264_aac_fhd.m3u8</link>
-<item>
-
-<item>
-<title>JONNY QUEST .m3u8</title>
- <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=http://LINK_DO_CANAL</link>
+<title>JONNY QUEST - O Mistério dos Homens-Lagartos</title>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=https://proxy-22.nyc.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpbVxh1YX3p1ZpV4QwbqLXFnFGPNLM9m3HE-WyGd5IoGarAlGGtB-pmDwaR2xleyOctGqtJjw8whaK2Y-i_KcGpU)/video/390/523/478325093_mp4_h264_aac_fhd.m3u8</link>
 <item>
 
 <item>
