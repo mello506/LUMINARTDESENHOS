@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO - 1ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO - 1ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E01-10
@@ -12,7 +12,7 @@ http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode21-30.LHMTv.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T01E31-40
 http://anhanga.lhmtv.gq/babys/Shaun.T.S-S1-Episode31-40.LHMTv.mp4?LHMTv
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO - 2ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="SHAUN CARNEIRO",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SHAUN O CARNEIRO - 2ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="http://" group-title="LHMTv Babys" ,[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR][COLOR yellow] -> [/COLOR] T02E01-10
