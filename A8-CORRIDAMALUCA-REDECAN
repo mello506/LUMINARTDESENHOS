@@ -1,74 +1,45 @@
-#EXTM3U
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CORRIDA MALUCA - DUB[/B][/COLOR]</title>
 
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="CORRIDA MALUCA",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] CORRIDA MALUCA - 1ª TEMP - SD - DUB[/COLOR]
-LINKDOFILME
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Arkansas[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Destino Cidade Fantasma[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio Wyoming [/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio Yellow Rock[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio Missouri[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime]  Idaho Aqui Vamos Nos [/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio Baja Ha-Ha[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um Gorila na Corrida[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Bem no Coracao[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio Virginia[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Altos e Baixos[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Toda Velocidade para Arkansas[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio de Mississippi[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio de Alabama[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] Corrida Quente em Chillicothe[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Estrada Nao Era Essa[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio de Rhode Island[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio de Polo Norte[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio do Vale Tudo[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio de Texas[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio de Washington[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio Deserto[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio Uni-Duni-Te[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP24.mp4$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Premio do Pantano[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP25.mp4$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Dakota[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP26.mp4$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Delaware[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP27.mp4$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Hollywood[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP28.mp4$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Raleigh[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP29.mp4$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Pennsylvania[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP30.mp4$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Hackensack[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP31.mp4$$lsname=[B]T01E31[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Corredores Com Esqui[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP32.mp4$$lsname=[B]T01E32[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Florida[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP33.mp4$$lsname=[B]T01E33[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Racine[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP34.mp4$$lsname=[B]T01E34[/B][COLOR yellow] ->[/COLOR][COLOR lime] Grande Premio Carlsbad[/COLOR]</link>
 
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E01 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP01.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E02 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP02.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E03 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP03.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E04 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP04.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E05 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP05.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E06 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP06.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E07 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP07.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E08 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP08.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E09 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP09.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E10 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP10.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E11 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP11.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E12 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP12.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E13 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP13.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E14 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP14.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E15 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP15.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E16 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP16.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E17 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP17.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E18 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP18.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E19 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP19.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E20 
-https://rejex-vod.azureedge.net/RCServer09/ondemand/CRDMLCEP20.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E21 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP21.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E22 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP22.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E23 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP23.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E24 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP24.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E25 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP25.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E26 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP26.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E27 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP27.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E28 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP28.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E29 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP29.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E30 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP30.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E31 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP31.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E32 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP32.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E33 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP33.mp4
-#EXTINF:-1 group-title="Corrida Maluca (Dublado)",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORRIDA MALUCA[/COLOR][COLOR yellow] -> [/COLOR]T01E34 
-https://coca-cola.azureedge.net/RCServer09/ondemand/CRDMLCEP34.mp4
-
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
