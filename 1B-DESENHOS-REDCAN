@@ -1,1 +1,177 @@
-LLLLLLLLLLLLLLLLLLLLLL
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]DESENHOS NO REDE CANAIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista Desenhos no REDE CANAIS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assiata aqui o Filme e Desenhos</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] As Aventuras de Tintim[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o Filme As Aventuras de Tintim no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pt9zKFD23Cs</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] As Aventuras de Tintim [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os Desenhos As Aventuras de Tintim no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Aventuras de Tintim - 2011 - Dublado[/COLOR]</title>
+<link>https://d1xlscw0uwfhw0.cloudfront.net/RCFServer1/ondemand/AAVTRSDTNFILME.mp4</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A aventura começa assim que Tintim compra a miniatura de um barco. Sem saber o segredo do objeto, ele e seu cachorro são sequestrados. Presos em um barco, conseguem escapar junto com o capitão e, aos poucos, vão decifrando todos os mistérios.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0n5Jy_2hCro</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim - T01 - Dublado[/B][/COLOR]</title>
+
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Caranguejo das Tenazes de Ouro - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Caranguejo das Tenazes de Ouro - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Segredo do Licorne - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Segredo do Licorne - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Tesouro de Rackham o Terrivel[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Charutos do Farao - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Charutos do Farao - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Lotus Azul - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Lotus Azul - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Ilha Negra - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Ilha Negra - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Caso Girassol - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Caso Girassol - parte 1[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>As Aventuras de Tintim é uma série de banda desenhada franco-belga As Aventuras de Tintim, criada por Hergé. Estreou em 1991, teve 39 episódios de meia hora produzidos em três temporadas. Foi a mais conhecida adaptação dos livros até o lançamento do filme As Aventuras de Tintim em 2011</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim - T02 - Dublado[/B][/COLOR]</title>
+
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP14.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Estrela Misteriosa[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP15.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Idolo Roubado - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP16.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Idolo Roubado - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP17.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Cetro de Ottokar - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP18.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Cetro de Ottokar - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP19.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tintim no Tibete - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP20.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tintim no Tibete - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP21.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tintim e os Timpanos - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP22.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tintim e os Timpanos - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP23.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tintim no Pais do Ouro Negro - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP24.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tintim no Pais do Ouro Negro - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP25.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Voo 714 para Sydney - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP26.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Voo 714 para Sydney - parte 2[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>As Aventuras de Tintim é uma série de banda desenhada franco-belga As Aventuras de Tintim, criada por Hergé. Estreou em 1991, teve 39 episódios de meia hora produzidos em três temporadas. Foi a mais conhecida adaptação dos livros até o lançamento do filme As Aventuras de Tintim em 2011</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim - T03 - Dublado[/B][/COLOR]</title>
+
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP27.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Perdidos no Mar - parte 1[/COLOR]</link>
+
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP28.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Perdidos no Mar - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP29.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Sete Bolas de Cristal - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP30.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Sete Bolas de Cristal - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP31.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Templo do Sol - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP32.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Templo do Sol - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP33.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Joias de Castafiore - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP34.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Joias de Castafiore - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP35.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Rumo a Lua - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP36.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Rumo a Lua - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP37.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Explorando a Lua - parte 1[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP38.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Explorando a Lua - parte 2[/COLOR]</link>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCServer09/ondemand/AAVTRSDTNEP39.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tintim na América[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>As Aventuras de Tintim é uma série de banda desenhada franco-belga As Aventuras de Tintim, criada por Hergé. Estreou em 1991, teve 39 episódios de meia hora produzidos em três temporadas. Foi a mais conhecida adaptação dos livros até o lançamento do filme As Aventuras de Tintim em 2011</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pt9zKFD23Cs</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Aventuras de Tintim - 2011 - Dublado[/COLOR]</title>
+<link>https://d1xlscw0uwfhw0.cloudfront.net/RCFServer1/ondemand/AAVTRSDTNFILME.mp4</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A aventura começa assim que Tintim compra a miniatura de um barco. Sem saber o segredo do objeto, ele e seu cachorro são sequestrados. Presos em um barco, conseguem escapar junto com o capitão e, aos poucos, vão decifrando todos os mistérios.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
